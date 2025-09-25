@@ -17,7 +17,8 @@ What interests me most is reliability, clarity, and reducing the accidental chao
 ---
 
 ### 🔥 My personal projects
-- 🧰 [**Data Forge**](https://github.com/fortiql/data-forge) – a modern data stack playground  
+- 🧰 [**Data Forge**](https://github.com/fortiql/data-forge) – a modern data stack playground
+  
   ![GitHub Repo stars](https://img.shields.io/github/stars/fortiql/data-forge?style=social)  
 
 ---
