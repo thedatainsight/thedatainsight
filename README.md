@@ -8,10 +8,10 @@ What interests me most is reliability, clarity, and reducing the accidental chao
 ---
 
 ### ⚙️ Tools I Use
-- **Data Tools and Technologies**: Spark, Trino, Iceberg, Kafka, Airflow, ClickHouse, Postgres
-- **Infra & DevOps**: Kubernetes, Terraform, ArgoCD, GitOps  
-- **Observability**: Prometheus, Grafana, Alertmanager  
-- **AI/LLM**: Vector DBs, embeddings, RAG pipelines
+- **Data Engineering**: Python, SQL, Spark, Trino, Iceberg, ClickHouse, Kafka, Airflow, Postgres, Tableau / Superset
+- **Infrastructure & DevOps**: Kubernetes (Amazon EKS), Terraform, ArgoCD, Jenkins, GitOps, Docker, Prometheus, Grafana, Alertmanager, AWS ecosystem, Cost Optimization
+- **Architecture & Governance**: ETL / ELT Design, Data Modeling, Data Quality & Governance, RBAC
+- **AI & LLM Engineering**: Vector Databases, Embeddings, RAG Pipelines
 
 ---
 
